@@ -1,0 +1,14 @@
+Tue Jan 16 18:10:21 PST 2024
+dreamville
+/Users/dreamville
+/bin/bash
+/Users/dreamville/Code/mcb185_homework
+/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+Darwin Naty-2.local 22.6.0 Darwin Kernel Version 22.6.0: Tue Nov  7 21:48:06 PST 2023; root:xnu-8796.141.3.702.9~2/RELEASE_X86_64 x86_64
+Python 3.9.6
+/Users/dreamville/Code
+/Users/dreamville/Code/mcb185_homework
+/Users/dreamville/Code/mcb185_homework/.git
+/Users/dreamville/Code/MCB185
+/Users/dreamville/Code/MCB185/.git
+/Users/dreamville/Code/MCB185/data
