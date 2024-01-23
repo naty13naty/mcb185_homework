@@ -1,4 +1,4 @@
-echo Natnael Tsegai # Khalid Saifgit
+echo Natnael Tsegai # Khalid Saif
 echo $USER
 
 cd ~/Code/MCB185/data
