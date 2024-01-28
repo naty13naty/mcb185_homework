@@ -9,9 +9,9 @@ def quadratic_formula(a, b, c):		 	#ax**2 +bx + c
 		x2 = (-b + math.sqrt(b**2 - 4*a*c)) / 2*a 	#x2 = x intercept 2
 		return x1, x2
 	
-	elif b**2 - 4*a*c < 0: print('no intercepts')
+	elif b**2 - 4*a*c < 0: return 'no intercepts'
 		
 	
-	
+# testing the program
 print(quadratic_formula(1, 6, 3))
 print(quadratic_formula(1, 3, 6))
