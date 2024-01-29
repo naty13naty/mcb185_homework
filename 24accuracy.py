@@ -5,9 +5,9 @@ def accuracy_f1(tp, tn, fp, fn):
 	precision = tp / (tp + fp)
 	recall = tp / (tp + fn)
 	f1_score = 2 * (precision * recall) / (precision + recall)
-	assert (tp + tn + fp + fn > 0)
-	assert (precision + recall > 0)
-	assert (tp + fp > 0)
+	assert(tp + tn + fp + fn > 0)
+	assert(precision + recall > 0)
+	assert(tp + fp > 0)
 	return accuracy, f1_score
 	
 #testing the program	
