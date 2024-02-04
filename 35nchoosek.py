@@ -1,8 +1,9 @@
-# N choose Kl Tsegai Co-authored with Khalid Saif
+# N choose K function by Natnael Tsegai Co-authored with Khalid Saif
 
 
 def factorial(n):
-	if n == 0: return 1
+	if n == 0: 
+		return 1
 	fac = 1
 	for i in range(1, n + 1):
 		fac = fac * i
