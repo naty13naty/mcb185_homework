@@ -1,9 +1,9 @@
 # scoring matrix 
 
 nts = 'ACGT'										
-print(nts, end='	')
+print(nts, end='')
 for n in nts:
-	print(n, end='  ')
+	print(n, end='')
 print()
 
 for nt1 in nts:
