@@ -1,3 +1,5 @@
+#A program that generates DNA sequences in FASTA format by Naty Tsegai
+
 import random
 
 nts = 'ACGT'
