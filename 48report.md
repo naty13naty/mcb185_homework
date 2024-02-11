@@ -63,7 +63,9 @@ result of *d20* die. The rules are as follows:
 The results I got at the end are summarized below:
 
    |    die         |    0.4      |
+   
    |    stabilize   |    0.417    |
+   
    |    revive      |    0.183    |
    
    
