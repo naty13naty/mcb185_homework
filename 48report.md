@@ -1,4 +1,4 @@
-### This report shows summary of the result of programs 45-47.
+### This report shows summary of the results of programs 45-47.
 ### By Natnael Tsegai
 
 # Summary of 45dndstats.py
@@ -19,12 +19,12 @@ This program shows the average stat value for the following four different rules
       
 the results i got for each rule are as follows:
       
-      |   Rule    |   Result     |
-      | ----------| -------------|
-      |   3D6     |    10.5009   |
-      |   3D6r1   |    11.7386   |
-      |   3D6x2   |    13.4170   |
-      |   4D6D1   |    12.2025   |
+   |   Rule    |   Result     |
+   | ----------| -------------|
+   |   3D6     |    10.5009   |
+   |   3D6r1   |    11.7386   |
+   |   3D6x2   |    13.4170   |
+   |   4D6D1   |    12.2025   |
       
       
 # Summary of 46savingthrows.py      
@@ -63,7 +63,9 @@ result of *d20* die. The rules are as follows:
 The results I got at the end are summarized below:
 
    |    die        |   0.4    |
+   | --------------| ---------|
    |    stabilize  |   0.417  |
+   | --------------| ---------|
    |    revive     |   0.183  |
-
+   | --------------| ---------|
    
