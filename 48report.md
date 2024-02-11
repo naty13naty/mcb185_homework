@@ -62,10 +62,8 @@ result of *d20* die. The rules are as follows:
   - if you're lucky and roll a 20, you gain i health, and you *revive*.
 The results I got at the end are summarized below:
 
-   |    die         |    0.4      |
-   
-   |    stabilize   |    0.417    |
-   
-   |    revive      |    0.183    |
+  die: 0.4 
+  stabilize: 0.417
+  revive: 0.183
    
    
