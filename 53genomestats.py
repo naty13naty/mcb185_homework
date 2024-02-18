@@ -33,7 +33,7 @@ def stdv(vals):
 def median(vals):
 	vals.sort()
 	if len(vals) % 2!= 0:             #if the count is odd
-		med = val[len(val) // 2]
+		med = int(len(vals) / 2)
 		return med
 	else: 								#if the count is even
 		med1 = int(len(vals) / 2) - 1
