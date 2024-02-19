@@ -7,7 +7,7 @@ people = int(sys.argv[3])
 
 success = 0
 
-for a in range(trials):
+for i in range(trials):
     calendar = []
 
     for j in range(people):
