@@ -25,7 +25,11 @@
  | U | AC | VP | AQ | OC | SH | SA | CA | OA | Tot | Notes |
  |:--|:---|:---|:---|:---|:---|:---|:---|:---|:----|:------|
  | 5 | 4  | 0  | 0  | 2  | 2  |  1 | 0  |  0 |  9  |       |
- | 6 |
+ | 6 | 4  | 0  | 0  | 2  | 2  |  1 | 0  |  1 | 10  | 1
  | 7 |
  | 8 |
  | 9 |
+ 
+ ### Notes:
+ 1. Collaborated with Ethan Djou and George Mo on the homework problems
+ 
