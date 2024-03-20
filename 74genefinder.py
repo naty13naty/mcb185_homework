@@ -1,4 +1,4 @@
-# 74genefinder.py by Naty Tsegai, helped by Ethan Djou 
+# 74genefinder.py by Naty Tsegai, coauthored with Ethan Djou 
 # heavily inspired by Khalid Saif
 
 import sys
